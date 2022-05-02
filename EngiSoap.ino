@@ -1,5 +1,3 @@
-#include <ST_HW_HC_SR04.h>
-
 /*  EngiSoap-ohjelmistokoodi 2.periodin sovellusprojektiin 2022.  
  *  Saippua-annostelijaan kasattu ja liitetty ohjelmistokoodi, jossa havaitaan anturilla liike, aktivoidaan servomoottori ja kommunikoidaan tapahtumat käyttäjälle hyödyntäen LCD-näyttöä. 
  *  Vuorovaikutteisuutta käyttäjältä lisää saippuapullon täydennys käyttäen painonappia. 
